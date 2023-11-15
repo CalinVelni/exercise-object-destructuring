@@ -1,5 +1,6 @@
 // ---- Esercizio 1 ----
 
+
 // const utente = {
 //     nome: "Alice",
 //     eta: 25,
@@ -13,7 +14,11 @@
 // const stringaJSON = JSON.stringify(utente);
 
 
+
+
+
 // ---- Esercizio 2 ----
+
 
 // const stringaJson = '{"id": 1, "nome": "John Doe", "email": "john.doe@example.com"}';
 
@@ -23,7 +28,10 @@
 
 
 
+
+
 // ---- Esercizio 3 ----
+
 
 // const film = {
 //     titolo: "Inception",
@@ -37,7 +45,11 @@
 // console.log(titolo, anno);
 
 
+
+
+
 // ---- Esercizio 4 ----
+
 
 // const utente = {
 //     nome: "Alice",
@@ -51,13 +63,17 @@
 
 // // const {via, citta} = indirizzo;
 
-// console.log(civico, citta);
+// console.log(via, citta);
 
 // // Soluzione Extra
 // // const {indirizzo:{via, citta}} = utente;
 
 
+
+
+
 // ---- Esercizio 5 ----
+
 
 // const persona = {
 //     nome: "Bob",
@@ -66,7 +82,11 @@
 // const {nome, eta = 30} = persona;
 
 
+
+
+
 // ---- Esercizio 6 ----
+
 
 // const persona = {
 //     nome: "Jane",
@@ -75,12 +95,17 @@
 
 // const presentati = ({nome, occupazione}) => {
 
-//     const messaggio = `Mi chiamo ${nome} e sono una ${occupazione}`
+//     const messaggio = `Mi chiamo ${nome} e lavoro come ${occupazione}`
+
 //     console.log(messaggio);
 // } 
 
 
+
+
+
 // ---- BONUS 1 ----
+
 
 // const databaseJson = [
 //     {
@@ -118,7 +143,6 @@
 //     }
 // ];
 
-
 // for (let i = 0; i < databaseJson.length; i ++) {
 
 //     const libro = databaseJson[i];
@@ -139,7 +163,11 @@
 // };
 
 
+
+
+
 // ---- BONUS 2 ----
+
 
 // const databaseJson =
 // [
@@ -179,7 +207,11 @@
 // analizzaDatabase(databaseJson);
 
 
+
+
+
 // ---- BONUS 3 ----
+
 
 // const stringaJson = `[
 //     {
@@ -218,6 +250,7 @@
 // }
 
 // analizzaJson(database);
+
 
 
 
